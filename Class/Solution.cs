@@ -15,5 +15,6 @@ public class Solution
             dict[nums[i]] = i;
         }
         throw new ArgumentException("No two sum solution");
+        Console.Write("asdf");
     }
 }
